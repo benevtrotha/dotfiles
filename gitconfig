@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = benedikt.trotha@web.de
+	name = Benedikt von Trotha
